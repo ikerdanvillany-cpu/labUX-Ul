@@ -1,0 +1,11 @@
+IMAGENES QUE FALTAN EN ESTA CARPETA (exportalas de Figma, formato PNG, 2x)
+
+hero-perro.png       -> Pantalla compu > Hero > "Imagen" (foto del perro con abrigo de cuadros)
+logo-dogit.png       -> Pantalla compu > Hero > "logo big"
+card-sesion.png      -> Card · Sesion de fotos > "Imagen card"
+card-paseos.png      -> Card · Paseos y cuidado > "Imagen card"
+card-album.png       -> Card · Album digital > "Imagen card"
+parallax-fondo.png   -> Parallax > "Imagen fondo parallax"
+
+Como: en Figma selecciona la capa, en el panel derecho > Export > "+" > PNG > Export.
+Guardalas con EXACTAMENTE esos nombres dentro de esta carpeta (assets).
